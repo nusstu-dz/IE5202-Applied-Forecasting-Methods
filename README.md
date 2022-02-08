@@ -1,6 +1,7 @@
 # IE5202-Applied-Forecasting-Methods
 Time Series Analysis and Forecasting using Python 
 
+(codes are in each project folder)
 
 <br/>
 
